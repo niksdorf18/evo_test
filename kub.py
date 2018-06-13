@@ -2,7 +2,7 @@ from random import randint
 
 
 def cub():
-	i = 1
+	i = 0
 	while True:
 		i += 1
 		cub1 = randint(1, 6)
